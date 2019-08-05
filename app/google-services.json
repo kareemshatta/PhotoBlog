@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "704151983883",
+    "firebase_url": "https://photoblog-20f23.firebaseio.com",
+    "project_id": "photoblog-20f23",
+    "storage_bucket": "photoblog-20f23.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:704151983883:android:33b27b2ef05cb79b",
+        "android_client_info": {
+          "package_name": "com.example.kareem.photoblog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "704151983883-c72m3ddffm4iu954s532fb96r5gb2h4e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kareem.photoblog",
+            "certificate_hash": "5465b3a1cea1a32fd3e9e0aa855494d953ddf441"
+          }
+        },
+        {
+          "client_id": "704151983883-5v753dh2eg8mtet1mbve780an8hud1ag.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0yJRitQjCccXUvc1TKXgHbF86QQpqNDU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "704151983883-5v753dh2eg8mtet1mbve780an8hud1ag.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

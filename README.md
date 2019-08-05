@@ -3,7 +3,9 @@ this application is designed to facilitate communication between users by sharin
 
 this application send notifications to users that contain new posts. 
 
+screenshots:
 
+![](screenshots/1.jpg)
 
 note: this app still under development.
 
